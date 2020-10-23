@@ -1,0 +1,97 @@
+/*show data table*/
+.show-data-table {
+	width: 100%;
+}
+
+.show-data-table .prizes-wrapper {
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.show-data-table .prizes {
+	border: 1px solid #0257be;
+	padding: 15px 0;
+	background-color: #38048f;
+	color: #fff;
+}
+
+.show-data-table .prizes span {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.show-data-table .col-step {
+	border: 1px solid #0257be;
+    padding: 15px 15px;
+    background-color: #fff;
+    color: #403b61;
+}
+
+.show-data-table .col-step span {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.show-data-table .col-step2 {
+	border: 1px solid #0257be;
+	padding: 25px 0;
+	background-color: #333241;
+}
+
+.show-data-table #prize-group {
+	padding: 15px 15px;
+}
+
+.show-data-table #winning-shares {
+	padding: 5px;
+}
+
+/*toto-wrapper*/
+.show-data-table .toto-wrapper {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.show-data-table .four-logo {
+    font-size: 4rem;
+}
+
+.show-data-table strong {
+    margin-left: 15px;
+}
+
+.show-data-table #mySelect {
+	background-color: #000;
+    border: 1px solid #615b5b;
+    color: #fdc018;
+}
+
+.background-4d {
+ 	background-image: url(https://s3-ap-southeast-1.amazonaws.com/cmsitess3bucket/gogbet/2020/04/20095155/background-4d.png);
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ 	min-height: 130px;
+ }
+
+ .background-toto {
+ 	background-image: url(https://s3-ap-southeast-1.amazonaws.com/cmsitess3bucket/gogbet/2020/04/20095156/background-toto.png);
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ 	min-height: 130px;
+ }
+
+ .next-draw {
+ 	text-align: right;
+ 	padding-top: 50px;
+ }
+
+ .draw-date {
+ 	padding-top: 30px;
+    float: right;
+    width: 60%;
+ }
+
+ .draw-date label {
+ 	color: #fff;
+ 	font-size: 18px;
+ }

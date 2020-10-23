@@ -1,0 +1,23 @@
+/*content-showdata-wrapper*/
+.content-showdata-wrapper .title-crawl {
+	color: #12b5d0;
+	font-size: 3rem;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.content-showdata {
+	padding: 15px 80px;
+}
+
+.content-showdata h2 {
+	color: #ea0606;
+	font-weight: 700;
+	font-size: 1.75rem;
+}
+
+.content-showdata strong {
+	font-size: 25px;
+    padding: 20px 30px;
+}
